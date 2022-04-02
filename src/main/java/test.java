@@ -5,5 +5,6 @@ public class test {
         System.out.println("third");
         System.out.println("fifth");
         System.out.println("76");
+        System.out.println("6");
     }
 }
